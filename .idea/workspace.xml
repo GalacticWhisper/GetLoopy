@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8ec5fa8-0ed1-47d2-b82e-470c98619ad5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PartA_Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PartA_Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PartA_Task3.java" afterDir="false" />
+    <list default="true" id="c8ec5fa8-0ed1-47d2-b82e-470c98619ad5" name="Changes" comment="InitialCommit">
+      <change afterPath="$PROJECT_DIR$/src/PartB_Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PartB_Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PartB_Task7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,9 @@
     "Application.PartA_Task1.executor": "Run",
     "Application.PartA_Task2.executor": "Run",
     "Application.PartA_Task3.executor": "Run",
+    "Application.PartA_Task4.executor": "Run",
+    "Application.PartB_Task5.executor": "Run",
+    "Application.PartB_Task7.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -68,6 +70,19 @@
       <option name="presentableId" value="Default" />
       <updated>1728308350051</updated>
     </task>
+    <task id="LOCAL-00001" summary="InitialCommit">
+      <option name="closed" value="true" />
+      <created>1728310749780</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728310749781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="InitialCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="InitialCommit" />
   </component>
 </project>
