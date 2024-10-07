@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8ec5fa8-0ed1-47d2-b82e-470c98619ad5" name="Changes" comment="InitialCommit">
-      <change afterPath="$PROJECT_DIR$/src/PartB_Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PartB_Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PartB_Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PartC_Task8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +52,9 @@
     "Application.PartA_Task3.executor": "Run",
     "Application.PartA_Task4.executor": "Run",
     "Application.PartB_Task5.executor": "Run",
+    "Application.PartB_Task6.executor": "Run",
     "Application.PartB_Task7.executor": "Run",
+    "Application.PartC_Task8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -78,7 +78,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728310749781</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="InitialCommit">
+      <option name="closed" value="true" />
+      <created>1728314910679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728314910679</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
